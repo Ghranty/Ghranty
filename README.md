@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghranty
 - 👀 I’m interested in Graphic Design, User Interaction and Experience 
-- 🌱 I’m currently learning to use Adobe XD
+- 🌱 I’m currently learning to use Figma + Adobe XD
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ghranty@gmail.com
 
